@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:SendValueApp" x:Class="SendValueApp.MainPage">
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label Text="Informe 2 valores"
+               FontSize="40"
+               TextColor="White"
+               HorizontalOptions="Center" 
+               VerticalOptions="CenterAndExpand" />
+        
+        <Entry Placeholder="Informe um numero"
+               Keyboard="Numeric"
+               x:Name="N1" />
+        
+        <Entry Placeholder="Informe outro numero"
+               Keyboard="Numeric"
+               x:Name="N2" />
+        
+        <Label Text="" 
+               HorizontalOptions="Center" 
+               VerticalOptions="CenterAndExpand"
+               x:Name="Result"
+               />
+        
+        <Button Text="Calcular"
+                HorizontalOptions="Center"
+                BackgroundColor="Gray" 
+                TextColor="White"
+                FontSize="20"
+                VerticalOptions="CenterAndExpand"
+                Clicked="Calcular"
+                />
+        
+    </StackLayout>
+</ContentPage>

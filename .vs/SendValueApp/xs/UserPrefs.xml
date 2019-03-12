@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{611D4092-C948-46D3-B69C-76299B7787BC}|Default">
+  <MonoDevelop.Ide.ItemProperties.SendValueApp.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.SendValueApp.Android PreferredExecutionTarget="Android.0045978518" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SendValueApp/PageCalc.xaml">
+    <Files>
+      <File FileName="SendValueApp/MainPage.xaml.cs" Line="14" Column="50" />
+      <File FileName="SendValueApp/MainPage.xaml" Line="20" Column="34" />
+      <File FileName="SendValueApp/PageCalc.xaml" Line="6" Column="1" />
+      <File FileName="SendValueApp/PageCalc.xaml.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
